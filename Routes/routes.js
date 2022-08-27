@@ -100,5 +100,3 @@ router.get("/getpsychiatrists/:id", (req, res) => {
 module.exports = router;
 
 
-
-//Hospital Management 
